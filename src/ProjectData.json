@@ -1,0 +1,50 @@
+[
+    {
+      "image": "https://hvm-properties.com/wp-content/uploads/2023/07/HVM-LOGO-TransparentBG.png",
+      "title": "HVM PROPETIES",
+      "subTitle": [
+        {"list":"HTML/CSS"},
+        {"list":"jQuery"},
+        {"list":"Web designing"},
+        {"list":"Wordpress"},
+        {"list":"Project management"}
+      ],
+      "href": "https://hvm-properties.com"
+    },
+    {
+      "image": "https://thelungpoint.com/wp-content/uploads/2023/04/Final-logo.png",
+      "title": "The Lung Point",
+      "subTitle": [
+        {"list":"HTML/CSS"},
+        {"list":"jQuery"},
+        {"list":"Project Handling"},
+        {"list":"Team Managment"},
+        {"list":"Wordpress"}
+      ],
+      "href": "https://thelungpoint.com/"
+    },
+    {
+      "image": "https://onlineeurojobs.com/globe.png",
+      "title": "OnlineEurojob",
+      "subTitle": [
+        {"list":"HTML/CSS"},
+        {"list":"jQuery"},
+        {"list":"Web designing"},
+        {"list":"Mailchimp"},
+        {"list":"Email Campaign"}
+      ],
+      "href": "https://www.abbfltd.com/"
+    },
+    {
+      "image": "https://i.ibb.co/WFtBkhv/leado.png",
+      "title": "Leadoconnect",
+      "subTitle": [
+        {"list":"HTML/CSS"},
+        {"list":"jQuery"},
+        {"list":"Wordpress"},
+        {"list":"Web designing"},
+        {"list":"Photoshop (CS6)"}
+      ],
+      "href": "https://www.leadoconnect.com/"
+    }
+  ]

@@ -1,0 +1,62 @@
+nav{
+    z-index: 99;
+    top:0;
+    box-shadow:0px 13px 24px 0px rgba(0,0,0,0.08);
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+nav .collapse.navbar-collapse{
+    display:block;
+}
+
+
+.profile-pic{
+    width: 13% !important;
+    object-fit: cover;
+    float: left;
+
+}
+
+@media(max-width:991px){
+   nav .collapse.navbar-collapse{
+    overflow: hidden;
+   } 
+   nav .active.navbar-collapse{
+    height: 30vh !important;
+   } 
+  .container-fluid.mx-5{
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
+}
+
+nav .navbar-collapse{
+    transition: .6s all ease-in-out;
+    height:0 !important;
+}
+
+@media(max-width:991px){
+    .navbar-brand{
+        width:50% !important;
+    }
+    .profile-pic {
+        max-width: 29% !important;
+        min-width: 29% !important;
+        min-height: 100% !important;
+        object-fit: cover;
+        float: left;
+    }
+}
+
+@media(max-width:500px){
+    .navbar-brand{
+        width:50% !important;
+    }
+    .profile-pic {
+        max-width: 66% !important;
+        min-width: 66% !important;
+        min-height: 100% !important;
+        object-fit: cover;
+        float: left;
+    }
+}
